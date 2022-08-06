@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task01.c
+Name: Task04.c
 --------------
 Description: Write a program, that formats a string with string
 variable and 2 float variables, then prints them into the console.
