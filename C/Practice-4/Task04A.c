@@ -3,8 +3,8 @@
 Name: Task04A.c
 --------------
 Description: Write a program, that gets value
-for 'x' variable, then solves the equation by formula
-and prints result to the console.
+for 'x' variable, then solves the equation by 
+formula and prints result to the console.
 --------------
 */
 #include <stdio.h>
