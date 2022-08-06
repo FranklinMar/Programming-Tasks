@@ -68,7 +68,7 @@ int main(void) {
 	return 0;
 }
 
-void print(int cube[H][H]){
+void print(int cube[H][H]) {
 	for (int i = 0; i < H; i++) {
 		for (int j = 0; j < H; j++) {
 			printf(" %d ",cube[i][j]);
@@ -76,7 +76,7 @@ void print(int cube[H][H]){
 		printf("\n");
 	}
 }
-void rotl(int cube[H][H]){
+void rotl(int cube[H][H]) {
 	int a[H][H];
 	int e = 0;
 	int f = 0;
@@ -94,7 +94,7 @@ void rotl(int cube[H][H]){
 		}
 	}
 }
-void fliph(int cube[H][H]){
+void fliph(int cube[H][H]) {
 	int a[H][H];
 	int f = 0;
 	for (int i = 0; i < H; i++) {
@@ -110,7 +110,7 @@ void fliph(int cube[H][H]){
 		}
 	}
 }
-void flipv(int cube[H][H]){
+void flipv(int cube[H][H]) {
 	int a[H][H];
 	int f = 0;
 	for (int i = 2; i >= 0; i--) {
