@@ -23,7 +23,7 @@ int main(void){
 	for(int j = 0; j < i; j++){
 		if (isupper(a[j])) {
 			putchar(a[j]);
-		} else if(a[j] >='a' && a[j] <= 'z') {// islower(a[j])
+		} else if(a[j] >= 'a' && a[j] <= 'z') {// islower(a[j])
 			a[j] = (int) a[j] - k;
 			putchar((char) a[j]);
 		} else {
