@@ -15,7 +15,7 @@ int main(void){
 	char k = getchar();
 	switch(l){
 		case 'A':
-			printf("%c - Відмінно\n",l);// Perfect
+			printf("%c - Відмінно\n",l);// Perfect 
 			printf("Бали за 100-бальною шкалою  Оцінка за шкалою ЄКТС  Оцінка за національною шкалою\n ");// Points up to 100 / Grade / Grade by-
 			printf("       95 … 100                       A                        Відмінно\n ");// -National Scale
 			break;
