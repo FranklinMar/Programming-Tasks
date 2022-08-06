@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task03.c
+Name: Task01.c
 --------------
 Description: Write a program, that will rotate square 3x3 
 to different directions. The direction of rotation must be 
