@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task04A.c
+Name: Task01.c
 --------------
 Description: Write a program, that reads a string 
 from a user and then prints it by every character.
