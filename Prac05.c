@@ -1,3 +1,11 @@
+/*
+--------------
+Name: Task03.c
+--------------
+Description: Write a program, that prints out 
+fractions (1/n), where n is odd, via loop.
+--------------
+*/
 #include <stdio.h>
 int main(void){
 	int i = 1;
