@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task03.c
+Name: Task04.c
 --------------
 Description: Write a program, that reads 
 a character from user, and checks if it is space, alphabetic, 
