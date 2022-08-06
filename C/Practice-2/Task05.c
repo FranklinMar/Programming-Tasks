@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task03.c
+Name: Task05.c
 --------------
 Description: Write a program, that prints out 
 fractions (1/n), where n is odd, via loop.
