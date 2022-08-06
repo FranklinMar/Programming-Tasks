@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task2.c
+Name: Task02.c
 --------------
 Description: Write a program, that prints
 string by every character with a loop.
