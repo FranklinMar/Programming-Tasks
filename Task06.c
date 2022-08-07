@@ -3,7 +3,8 @@
 Name: Task06.c
 --------------
 Description: Write a program, that will encrypt
-a word or message without spaces with .
+a word or message without spaces with key to 
+be determined by user with Scytale cipher.
 --------------
 */
 #include <stdio.h>
