@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
+------------------------------------------------------------
 Description: Write a program, that will calculate the Area 
-and Circumference of circle by radius read from user 
-input with using pointers and adress to variables.
---------------
+  and Circumference of circle by radius read from user input 
+  with using pointers and adress to variables.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <math.h>
