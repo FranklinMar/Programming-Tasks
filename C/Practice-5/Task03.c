@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that reads a 
-string from user, then converts every character
-of it to lower (if possible) and prints it on console.
---------------
+------------------------------------------------------------
+Description: Write a program, that reads a string from user, 
+  then converts every character of it to lower (if possible) 
+  and prints it on console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <ctype.h>
