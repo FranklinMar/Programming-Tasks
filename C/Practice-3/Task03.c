@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that uses 
-nested 'for' loops, and demonstrate it.
---------------
+------------------------------------------------------------
+Description: Write a program, that uses nested 'for' loops, 
+  and demonstrate it.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void){
