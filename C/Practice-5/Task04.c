@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
-Description: Write a program, that reads 
-a character from user, and checks if it is space, alphabetic, 
-or non-alphabet character, then prints to the console.
---------------
+------------------------------------------------------------
+Description: Write a program, that reads a character from 
+  user, and checks if it is space, alphabetic, or 
+  non-alphabet character, then prints to the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <ctype.h>
