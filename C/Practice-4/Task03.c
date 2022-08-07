@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that gets the number of elements
-to the expression and calculates the solution by using 
-iterative formula, and print result to the console.
---------------
+------------------------------------------------------------
+Description: Write a program, that gets the number of 
+  elements to the expression and calculates the solution by 
+  using iterative formula, and print result to the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <math.h>
