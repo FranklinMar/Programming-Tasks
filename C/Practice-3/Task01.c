@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
-Description: Write a program, that demonstrates
-usage of different operators with assigning.
---------------
+------------------------------------------------------------
+Description: Write a program, that demonstrates usage of 
+different operators with assigning.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void){
