@@ -1,12 +1,12 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
-Description: Write a program, that will rotate square 3x3 
-to different directions. The direction of rotation must be 
-determined by user, so you should foresee and implement 
-such a possibility.
---------------
+------------------------------------------------------------
+Description: Write a program, that will rotate square 3x3 to 
+  different directions. The direction of rotation must be 
+  determined by user, so you should foresee and implement 
+  such a possibility.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h>
