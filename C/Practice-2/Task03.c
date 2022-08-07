@@ -1,12 +1,12 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
+------------------------------------------------------------
 Description: Write a program, that: 
 - asks for the name of user;
 - asks for the age of user, after printing the name;
 - adds constant to the age and prints it back.
---------------
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define B "booboo"
