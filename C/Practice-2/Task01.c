@@ -1,10 +1,11 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
-Description: Write a program, that asks user for temperature in Celsius, then 
-converts it into Fahrenheit scale, and then prints it out into the console.
---------------
+------------------------------------------------------------
+Description: Write a program, that asks user for temperature 
+  in Celsius, then converts it into Fahrenheit scale, and 
+  then prints it out into the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void) {
