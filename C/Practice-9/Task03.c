@@ -1,16 +1,18 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that get a string with several numbers 
-(numbers must be integers, and total amount of them shouldn't be less than 10), 
-then implement sorting of entered array by next methods in the next order: 
+------------------------------------------------------------
+Description: Write a program, that get a string with several 
+  numbers (numbers must be integers, and total amount of 
+  them shouldn't be less than 10), then implement sorting of 
+  entered array by next methods in the next order: 
+  
 1) Bubble sort algorithm (bubble method);
 2) Shuffling of the array (shuffle method);
 3) Shell sort algorithm (shell method);
 4) Shuffling of the array again (shuffle method);
 5) Hoor sort algorithm (hoor method).
---------------
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <stdlib.h>
