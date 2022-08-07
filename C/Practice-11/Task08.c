@@ -1,6 +1,6 @@
 /*
 ----------------
-Name: Task07.c
+Name: Task08.c
 ------------------------------------------------------------
 Description: Write a program, that has a function with name
   is_within(). This function must get a char and a pointer 
