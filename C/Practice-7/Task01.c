@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
+------------------------------------------------------------
 Description: Write a program, that will encrypt a string,
 which is read from the user input, by Ceasar's cipher and
 print it out on the console.
---------------
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h>
