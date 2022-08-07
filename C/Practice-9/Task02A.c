@@ -1,16 +1,17 @@
 
 
 /*
---------------
+----------------
 Name: Task02A.c
---------------
-Description: Write a program, that will complete
-next tasks with pointers: 
-- Read a few words from user input (consider checks to 
-make it impossible to enter numbers or other symbols);
+------------------------------------------------------------
+Description: Write a program, that will complete next tasks 
+  with pointers:
+  
+- Read a few words from user input (consider checks to make 
+  it impossible to enter numbers or other symbols);
 - Print words in sorted alphabetical order into the console 
-(you may use only latin characters and letters).
---------------
+  (you may use only latin characters and letters).
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h>
