@@ -1,6 +1,6 @@
 /*
 --------------
-Name: Task01A.c
+Name: Task03.c
 --------------
 Description: Write a program, that will have
 next functions:
