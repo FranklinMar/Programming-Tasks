@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
+------------------------------------------------------------
 Description: Write a program, that gets values from user for 
-quadratic equation and uses arrays to store them, then 
-solves it and prints the solution to the console.
---------------
+  quadratic equation and uses arrays to store them, then 
+  solves it and prints the solution to the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <math.h>
