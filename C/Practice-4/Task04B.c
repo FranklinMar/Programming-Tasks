@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task04B.c
---------------
-Description: Write a program, that gets value
-for 'x' variable, then solves the equation by 
-formula and prints result to the console.
---------------
+------------------------------------------------------------
+Description: Write a program, that gets value for 'x' 
+  variable, then solves the equation by formula and prints 
+  result to the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <math.h>
