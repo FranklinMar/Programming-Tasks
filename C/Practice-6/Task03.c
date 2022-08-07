@@ -1,12 +1,15 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that will calculate
-first 10 values of cos. Create the program in 2 ways:
-1. By using cos() function for calculating cos from <cmath.h> library;
-2. By writing your own function, that will calculate cos by formula.
---------------
+------------------------------------------------------------
+Description: Write a program, that will calculate first 10 
+  values of cos. Create the program in 2 ways:
+  
+1. By using cos() function for calculating cos from 
+  <cmath.h> library;
+2. By writing your own function, that will calculate cos by 
+  formula.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <math.h>
