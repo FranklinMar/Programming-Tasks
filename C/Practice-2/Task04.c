@@ -1,10 +1,11 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
-Description: Write a program, that formats a string with string
-variable and 2 float variables, then prints them into the console.
---------------
+------------------------------------------------------------
+Description: Write a program, that formats a string with 
+  string variable and 2 float variables, then prints them 
+  into the console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define BOOK "Kobzar"
