@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task03A.c
---------------
-Description: Write a program, that reads a 
-string from user, then converts every character
-of it to upper (if possible) and prints it on console.
---------------
+------------------------------------------------------------
+Description: Write a program, that reads a string from user, 
+  then converts every character of it to upper (if possible) 
+  and prints it on console.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <ctype.h>
