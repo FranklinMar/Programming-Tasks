@@ -1,13 +1,14 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: Write a program, that read 2 variables
-from user input, then compare them and prints the 
-appropriate message to the console.
-All of this should repeat several times.
-Use ?: operator instead of if...else .
---------------
+------------------------------------------------------------
+Description: Write a program, that read 2 variables from 
+  user input, then compare them and prints the appropriate 
+  message to the console.
+  
+  All of this should repeat several times.
+  Use ?: operator instead of if...else .
+------------------------------------------------------------
 */
 #include <stdio.h>
 
