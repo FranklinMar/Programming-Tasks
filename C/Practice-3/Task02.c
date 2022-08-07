@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: Write a program, that uses 'for' loop
-and prints out the result.
---------------
+------------------------------------------------------------
+Description: Write a program, that uses 'for' loop and 
+  prints out the result.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void){
