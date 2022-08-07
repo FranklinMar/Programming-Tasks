@@ -3,7 +3,10 @@
 Name: Task01.c
 --------------
 Description: Write a program, that will sort
-2-dimensional array (by Hoor sort method).
+2-dimensional array: 
+1) by Hoor sort method;
+2) by Change sort method;
+3) by Choose (Choice) sort method.
 --------------
 */
 #include <stdio.h>
