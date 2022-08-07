@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: Write a program, that will 
-swap the values of variables in ascending
-and descending order by using pointers and address.
---------------
+------------------------------------------------------------
+Description: Write a program, that will swap the values of 
+  variables in ascending and descending order by using 
+  pointers and address.
+------------------------------------------------------------
 */
 #include <stdio.h>
 
