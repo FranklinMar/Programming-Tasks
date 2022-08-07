@@ -3,8 +3,8 @@
 Name: Task01.c
 --------------
 Description: Write a program, that will transpose 
-matrix with elements and dimensions that are 
-determined by user (1 <= x <= 10 interval).
+matrix with elements and dimensions (1 <= x <= 10 interval) 
+that are determined by user.
 --------------
 */
 #include <stdio.h>
