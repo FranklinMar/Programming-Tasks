@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
-Description: Write a program, that calculates
-factorial without using recursion.
---------------
+------------------------------------------------------------
+Description: Write a program, that calculates factorial 
+  without using recursion.
+------------------------------------------------------------
 */
 #include <stdio.h>
 
