@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task04A.c
---------------
+------------------------------------------------------------
 Description: Write a program, that solves the equation
-by formula and prints result to the console.
---------------
+  by formula and prints result to the console.
+------------------------------------------------------------
 */
 
 #include <stdio.h>
