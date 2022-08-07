@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task06.c
---------------
+------------------------------------------------------------
 Description: With a given C program, explain what happens
-in each printf function call, and what is the result.
---------------
+  in each printf function call, and what is the result.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define FORMAT "%s! C is cool!\n"
