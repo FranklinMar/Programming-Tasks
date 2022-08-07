@@ -39,7 +39,7 @@ int main(void) {
 	}
 	printf("\nArray#3:");
 	for (int i = 0; i < n; i++) {
-			printf("%d ", *(arr3+i));
+			printf("%d ", *(arr3 + i));
 	}
 	return 0;
 }
