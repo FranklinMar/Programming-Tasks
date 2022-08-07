@@ -1,3 +1,18 @@
+/*
+----------------
+Name: Task06.c
+------------------------------------------------------------
+Description: Write a program, that will read line (string) 
+  array (array of char's) from user input. Create a function, 
+  that will read first word from every line (string), and 
+  will write this word into array, and ignore all further 
+  words. Also, the function must read all lines (strings) 
+  of array on input, regardless of their amount, but save 
+  only the first words, and destroy the rest in each line. 
+  For ease of completing the task, think of word as a char 
+  sequence, separated by whitespaces.
+------------------------------------------------------------
+*/
 #include <stdio.h>
 
 int getsen(char *string, int n, int *f) {
