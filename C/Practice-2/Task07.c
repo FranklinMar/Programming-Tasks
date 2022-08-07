@@ -1,10 +1,11 @@
 /*
---------------
+----------------
 Name: Task07.c
---------------
-Description: Write a program, that demonstrates variable type
-automatic conversion and dislays it on console, and explain it.
---------------
+------------------------------------------------------------
+Description: Write a program, that demonstrates variable 
+  type automatic conversion and dislays it on console, and 
+  explain it.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(){
