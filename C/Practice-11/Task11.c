@@ -1,6 +1,6 @@
 /*
 ----------------
-Name: Task07.c
+Name: Task11.c
 ------------------------------------------------------------
 Description: Write a program, in which implement function, 
   that will get char line (string) as input from user, and 
