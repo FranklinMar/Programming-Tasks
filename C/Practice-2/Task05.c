@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task05.c
---------------
-Description: Write a program, that prints out 
-fractions (1/n), where n is odd, via loop.
---------------
+------------------------------------------------------------
+Description: Write a program, that prints out fractions 
+  of (1/n), where n is odd, via loop.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void){
