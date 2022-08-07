@@ -2,10 +2,14 @@
 ----------------
 Name: Task07.c
 ------------------------------------------------------------
-Description: .
+Description: Write a program, that will have the modified 
+  function of the previous task.The function must have the
+  second parameter, that will point out on how many words 
+  must be read from each of the lines.
 ------------------------------------------------------------
 */
 #include <stdio.h>
+
 int getsen(char *string, int n, int *f) {
 	int e = 1;
 	for (int i = 0; i < n; i++) {
@@ -18,6 +22,7 @@ int getsen(char *string, int n, int *f) {
 	*(string + n) = '\0';
 	return e;
 }
+
 void str(char *string, int n, int e, int *f, int par) {
 	char word[50];
 	int m = 0;
@@ -43,6 +48,7 @@ void str(char *string, int n, int e, int *f, int par) {
 	}
 	*(string + n) = '\0';
 }
+
 int main(void) {
 	char string[50];
 	int param;// Параметр кількості слів для зберігання
