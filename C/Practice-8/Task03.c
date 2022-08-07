@@ -1,11 +1,10 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Write a program, that will 
-find the average of elements of given 
-array by using pointers and address.
---------------
+------------------------------------------------------------
+Description: Write a program, that will find the average of 
+  elements of given array by using pointers and address.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define S 20
