@@ -1,14 +1,15 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
+------------------------------------------------------------
 The Tower of Hanoi is a mathematical game or puzzle
 
 Description: Write a program for solving Hanoi tower problem.
-The problem is that, having 3 pins and 3 rings of different size 
-on a pin #1 (like a pyramid), it is required to move these ring on a last
-pin, so that rings would remain in the same order.
---------------
+  The problem is that, having 3 pins and 3 rings of different 
+  size on a pin #1 (like a pyramid), it is required to move 
+  these ring on a last pin, so that rings would remain in 
+  the same order.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define MAX_NRINGS 64 // Max number of rings
