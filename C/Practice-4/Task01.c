@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
+------------------------------------------------------------
 Description: Write a program, that prints a mark ETCS
-information by grade using "switch" operator with "case"s by
-using a table with grades.
---------------
+  information by grade using "switch" operator with "case"s 
+  by using a table with grades.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <stdlib.h>
