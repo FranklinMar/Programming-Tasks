@@ -1,22 +1,21 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
-Description: Write a program, that will have
-next functions:
+------------------------------------------------------------
+Description: Write a program, that will have next functions:
 
 1) returns a max value from array of integers;
 2) returns an index of max value from double type array;
 3) returns the result of difference between the biggest 
-and the lowest elements of double type array.
+   and the lowest elements of double type array.
 
 - Arrays can be 1-dimensional.
 - The values must be taken from user console input.
 - Do not forget about the checking of correctness of 
-user input (to avoid errors with invalid values of 
-the elements and the possibility of going out of 
-the array's bounds).
---------------
+   user input (to avoid errors with invalid values of 
+   the elements and the possibility of going out of 
+   the array's bounds).
+------------------------------------------------------------
 */
 #include <stdio.h>
 
