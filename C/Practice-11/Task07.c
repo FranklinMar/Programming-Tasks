@@ -51,7 +51,7 @@ void str(char *string, int n, int e, int *f, int par) {
 
 int main(void) {
 	char string[50];
-	int param;// Параметр кількості слів для зберігання
+	int param;// Variable that contains number of words to save
 	int f = 1;
 	while (f) {
 		printf("\nEnter number of words to be saved:");
@@ -64,8 +64,8 @@ int main(void) {
 		}
 	}
 	printf("\nEnter lines of words:\n");
-	int newline[50];// Масив з індексами нових рядків
-	newline[0] = 0;// Кількість нових рядків
+	int newline[50];// Array with indexes of new lines
+	newline[0] = 0;// Number of new lines
 	int new = getsen(string, 50, newline);
 	str(string, 50, new, newline, param);
 	printf("The words are:%s", string);
