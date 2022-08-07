@@ -1,13 +1,15 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
+------------------------------------------------------------
 Description: Write a program, that completes several tasks:
-Task a: Print given sentence with float number, that has 2 digits before and after the decimal point.
+
+Task a: Print given sentence with float number, that has 2 
+  digits before and after the decimal point.
 Tasl b: Print character 'H' in different ways.
 Task c: Count characters inside given sentence.
 Task d: Display the same float number in different ways.
---------------
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h> // Library for task 'с'. Includes function "strlen()"
