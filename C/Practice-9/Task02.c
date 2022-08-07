@@ -1,13 +1,14 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: Write a program, that complete
-next tasks with pointers:
+------------------------------------------------------------
+Description: Write a program, that complete next tasks with 
+  pointers:
+  
 - Get a sentence from user input with letters and symbols;
-- Delete symbols from a string, leaving only spaces 
-and alphabetic characters.
---------------
+- Delete symbols from a string, leaving only spaces and 
+  alphabetic characters.
+------------------------------------------------------------
 */
 #include <stdio.h>
 
