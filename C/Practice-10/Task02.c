@@ -2,8 +2,8 @@
 --------------
 Name: Task02.c
 --------------
-Description: Print out address of 
-array element in a different ways.
+Description: Print out address of the same 
+given array elements in a different ways.
 --------------
 */
 #include <stdio.h>
