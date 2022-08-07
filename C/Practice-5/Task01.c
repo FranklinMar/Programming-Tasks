@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task01.c
---------------
-Description: Write a program, that reads a string 
-from a user and then prints it by every character.
---------------
+------------------------------------------------------------
+Description: Write a program, that reads a string from user 
+  and then prints it by every character.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #define S 16
