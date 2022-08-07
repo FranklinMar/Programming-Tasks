@@ -1,13 +1,14 @@
 /*
---------------
+----------------
 Name: Task01A.c
---------------
-Description: Write a program, that will complete
-next tasks with pointers: 
+------------------------------------------------------------
+Description: Write a program, that will complete next tasks 
+  with pointers: 
+  
 - Get 2 matrixes with elements and dimensions 
-(1 <= x <= 10 interval) that are determined by user.
+  (1 <= x <= 10 interval) that are determined by user.
 - Find the sum of 2 matrixes (with all neccessary checkings).
---------------
+------------------------------------------------------------
 */
 #include <stdio.h>
 
