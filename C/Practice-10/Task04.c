@@ -11,10 +11,10 @@ Description: Write a program, that will have next functions:
 
 - Arrays can be 1-dimensional.
 - The values must be taken from user console input.
-- Do not forget about the checking of correctness of 
-   user input (to avoid errors with invalid values of 
-   the elements and the possibility of going out of 
-   the array's bounds).
+- Do not forget about the checking of correctness of user 
+   input (to avoid errors with invalid values of the 
+   elements and the possibility of going out of the array's 
+   bounds).
 ------------------------------------------------------------
 */
 #include <stdio.h>
