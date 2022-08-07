@@ -7,7 +7,6 @@ next tasks with pointers:
 - Get 2 matrixes with elements and dimensions 
 (1 <= x <= 10 interval) that are determined by user.
 - Find the sum of 2 matrixes (with all neccessary checkings).
-
 --------------
 */
 #include <stdio.h>
