@@ -15,7 +15,7 @@ int main(){
 			0.175636, 0.568243, 0.0100543, 0.702012, 0.0345108,
 			0.146549, 0.189951, 0.144139, 0.261263, 0.474034};
 	double average;
-	for(int i = 0; i < S; i++)
+	for (int i = 0; i < S; i++)
 		average += *(a + i);
 	printf("Sum:%lf\n", average);
 	average = average / S;
