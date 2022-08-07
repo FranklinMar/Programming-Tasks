@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: The same, as the Task01, except use
-Vigenere's cipher for encrypting with keyword.
---------------
+------------------------------------------------------------
+Description: The same, as the Task01, except use Vigenere's 
+  cipher for encrypting with keyword.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h>
