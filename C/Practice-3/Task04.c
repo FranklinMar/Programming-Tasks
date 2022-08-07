@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task04.c
---------------
-Description: Write a program, that uses all kinds of
-loops with different parameters and variables.
---------------
+------------------------------------------------------------
+Description: Write a program, that uses all kinds of loops 
+  with different parameters and variables.
+------------------------------------------------------------
 */
 #include <stdio.h>
 int main(void){
