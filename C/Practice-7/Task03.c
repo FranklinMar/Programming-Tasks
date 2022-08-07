@@ -1,11 +1,11 @@
 /*
---------------
+----------------
 Name: Task03.c
---------------
-Description: Make a programm, that will encrypt
-a message with Scytale cipher with both key and
-text to be determined by user.
---------------
+------------------------------------------------------------
+Description: Make a programm, that will encrypt a message 
+  with Scytale cipher with both key and text to be 
+  determined by user.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <string.h>
