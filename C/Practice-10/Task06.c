@@ -1,3 +1,16 @@
+/*
+----------------
+Name: Task06.c
+------------------------------------------------------------
+Description: Write a program, that will do certain actions 
+  for several arrays with integer type elements. Issue the 
+  code, like a complete program and print results to the 
+  console. One of the arrays must be filled by elements, 
+  each of which must be filled by sum of 2 relative elements 
+  (with the same index) from other 2 arrays. For example, 
+  {2, 4, 3, 1} + {7, 4, 2, 5} = {9, 8, 5, 6}.
+------------------------------------------------------------
+*/
 #include <stdio.h>
 
 int main(void) {
