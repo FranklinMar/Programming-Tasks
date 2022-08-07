@@ -1,10 +1,10 @@
 /*
---------------
+----------------
 Name: Task02.c
---------------
-Description: Write a program, that prints
-string by every character with a loop.
---------------
+------------------------------------------------------------
+Description: Write a program, that prints string by every 
+  character with a loop.
+------------------------------------------------------------
 */
 #include <stdio.h>
 
