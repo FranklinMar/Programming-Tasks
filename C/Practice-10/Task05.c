@@ -1,13 +1,12 @@
 /*
---------------
+----------------
 Name: Task05.c
---------------
-Description: Write a program, that will 
-allow user to fill up the array from the console 
-input, or from random number generator.
-Then, create a function, that will reverse the array, 
-meaning it should return array in reversed order.
---------------
+------------------------------------------------------------
+Description: Write a program, that will allow user to fill 
+  up the array from the console input, or from random number 
+  generator. Later, create a function, that will reverse the 
+  array, meaning it should return array in reversed order.
+------------------------------------------------------------
 */
 #include <stdio.h>
 #include <stdlib.h>
