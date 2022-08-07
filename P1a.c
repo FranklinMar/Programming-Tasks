@@ -12,6 +12,7 @@ next tasks with pointers:
 */
 #include <stdio.h>
 
+// Get matrix dimensions from user
 void getsize(int *h, int *w);
 
 int main(void){
