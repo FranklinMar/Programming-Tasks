@@ -40,7 +40,7 @@ Nameval *reverse_iter(Nameval *listp) {
     }
     return temp;
 }
-Nameval *newitem(char *name,int value) {
+Nameval *newitem(char *name, int value) {
 	Nameval *newp;
 	newp = (Nameval *) malloc(sizeof(Nameval));
 	newp->name = name;
