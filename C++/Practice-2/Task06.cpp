@@ -1,6 +1,6 @@
 /*
 ------------------
-Name: Task01.cpp
+Name: Task06.cpp
 ------------------------------------------------------------
 Description: Implement the solution of Problem 2.5 (Look 
   Unit 1 "A singly-linked list") on C language. Example of 
