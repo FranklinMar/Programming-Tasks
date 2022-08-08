@@ -17,8 +17,8 @@ Description: A tree, in which any path from root to leaf has
 - SubTask 1:
   The data is received in random order (and the data itself 
   is pretty random too). Create a function of checking the 
-  balance of the created tree, to confirm or deny the next 
-  statement:
+  balance state of the created tree, to confirm or deny the 
+  next statement:
   If elements are passed in random order, then the tree 
   would be balanced.
 ------------------------------------------------------------
