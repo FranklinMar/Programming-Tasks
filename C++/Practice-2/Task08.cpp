@@ -4,7 +4,7 @@ Name: Task08.cpp
 ------------------------------------------------------------
 Description: Create a function myroot(), which returns 
   the square root of its argument. Overload myroot() in 
-  three ways (look Unit 2 "Introducing Function Overloading"):
+  three ways (see Unit 2 "Introducing Function Overloading"):
   to get square root of integer, long integer and double 
   number. (For calculating square root you can use sqrt() 
   from standart library.
