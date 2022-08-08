@@ -1,4 +1,4 @@
-# Lectures
+# Tasks & Lectures
 Link to the lectures of "Fundamentals of programming 2" course.
 
 "Fundamentals of programming" course of NTUU KPI.
