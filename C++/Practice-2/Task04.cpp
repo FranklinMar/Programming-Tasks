@@ -26,17 +26,19 @@ public:
 	void store(char book[50], char aname[50], int exem);
 	void show();
 };
-void card::store(char book[50], char aname[50], int exem){
 
+void card::store(char book[50], char aname[50], int exem){
 	strcpy(name, book);
 	strcpy(author, aname);
 	num = exem;
 }
+
 void card::show(){
 	cout << "Name of the book:" << name;
 	cout << "\nName of the author:" << author;
 	cout << "\nNumber of copies:" << num << '\n';
 }
+
 int main(){
 	card custom1, custom2;
 	char text1[50] = "The Mysterious Island";
