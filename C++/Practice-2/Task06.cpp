@@ -2,7 +2,7 @@
 ------------------
 Name: Task06.cpp
 ------------------------------------------------------------
-Description: Implement the solution of Problem 2.5 (Look 
+Description: Implement the solution of Problem 2.5 (see 
   Unit 1 "A singly-linked list") on C language. Example of 
   looped queue, built with the help of pointers.
   
