@@ -3,7 +3,7 @@
 Name: Task05.cpp
 ------------------------------------------------------------
 Description: Create a class with looped queue of integers 
-  (look Unit 2 "A more practical example"). Create a queue 
+  (see Unit 2 "A more practical example"). Create a queue 
   with length of 100 integers. Create a short demonstration 
   inside main() function.
   Initialise class instances with the help of constructor.
