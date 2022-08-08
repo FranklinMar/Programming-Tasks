@@ -8,7 +8,7 @@ Description: Create function rev_str() for changing the
   strings. If the function is called with 1 string, then the 
   operation must be done on it. If it is called with 2 strings, 
   the result string must be contained in the second argument.
-  (look Unit 2 "Overloaded functions that differ in the number
+  (see Unit 2 "Overloaded functions that differ in the number
   of their arguments").
   Example:
   char s1[80], s2[80];
