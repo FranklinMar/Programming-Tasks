@@ -19,9 +19,15 @@ Description: A tree, in which any path from root to leaf has
   is pretty random too). Create a function of checking the 
   balance of the created tree, to confirm or deny the next 
   statement:
-  If elements are passed in sorted order, then the tree 
+  If elements are passed in random order, then the tree 
   would be balanced.
 ------------------------------------------------------------
+*/
+/*
+Answer to the statement:
+Passing elements to the tree by random order really does
+make tree more balanced, but only if middle by value elements
+are pased first.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -112,9 +118,3 @@ int main(void) {
 	}
 	return 0;
 }
-/*
-Answer to the statement:
-Надходження елементiв у дерево у хаотичному порядку
-дiйсно робить дерево бiльш збалансованим,але в рiдких випадках,
-коли серединнi елементи займають мiсце кореня дерева.
-*/
