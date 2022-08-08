@@ -5,7 +5,7 @@ Name: Task10.cpp
 Description: Create your own function min(), that returns 
   the lowest from 2 number arguments. Overload min() 
   function, so it would take as arguments types of char, 
-  int and double (look Unit 2 "Introducing Function Over-
+  int and double (see Unit 2 "Introducing Function Over-
   -loading").
 ------------------------------------------------------------
 */
