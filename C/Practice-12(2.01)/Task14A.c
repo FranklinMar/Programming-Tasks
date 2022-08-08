@@ -2,7 +2,25 @@
 ----------------
 Name: Task14A.c
 ------------------------------------------------------------
-Description: .
+Description: A tree, in which any path from root to leaf has 
+  approximately the same length, is called balanced. It's 
+  advantage is that the search of element has running time 
+  of O(log n), because, just like in binary search, by each 
+  step the half of data that remained is ignored.
+  
+  Write a program by looking at the example shown in the 
+  first lecture "Binary search tree". Implement the 
+  posibility of generating the stream of data for filling up 
+  the tree. As data is received, a node should be formed for 
+  each element.
+  
+- SubTask 1:
+  The data is received in random order (and the data itself 
+  is pretty random too). Create a function of checking the 
+  balance of the created tree, to confirm or deny the next 
+  statement:
+  If elements are passed in sorted order, then the tree 
+  would be balanced.
 ------------------------------------------------------------
 */
 #include <stdio.h>
