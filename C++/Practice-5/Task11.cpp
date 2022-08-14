@@ -6,7 +6,7 @@ Description: Write a neg() function that changes the sign of
   its integer parameter to the opposite. Write a function in 
   two ways: the first is using a pointer parameter and the 
   second must have a reference parameter. Make a short 
-  program for demonstration.
+  program for demonstration of both features.
 ------------------------------------------------------------
 */
 
