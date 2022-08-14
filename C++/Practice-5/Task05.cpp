@@ -6,7 +6,7 @@ Description: Write a program that uses the "new" operator to
   allocate dynamic memory to float, long and char variables. 
   Give values to those dynamic variables and print those 
   values to the screen. At the end, free all dynamically 
-  allocated variables (with dynamic memory) with delete 
+  allocated variables (with dynamic memory) with "delete" 
   operator.
 ------------------------------------------------------------
 */
