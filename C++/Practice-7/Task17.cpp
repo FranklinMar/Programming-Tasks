@@ -52,7 +52,7 @@ strtype :: strtype(int bytes) {
 		exit(1);
 	}
 }
-strtype :: strtype(char *strin ,int bytes) {
+strtype :: strtype(char *strin, int bytes) {
 	if (bytes <= 0) {
 		cout << "Initialiation error\n";
 		exit(1);
@@ -68,7 +68,7 @@ strtype :: strtype(char *strin ,int bytes) {
 		cout << "Bounds error!\n";
 		exit(1);
 	}*/
-	if ((int) strlen(strin) < len) {
+	/*if ((int) strlen(strin) < len) {
 		for (int i = 0; i < (int)strlen(strin); i++) {
 			*(p + i) = *(strin + i);
 		}	
@@ -76,6 +76,10 @@ strtype :: strtype(char *strin ,int bytes) {
 		for (int i = 0; i < len; i++) {
 			*(p + i) = *(strin + i);
 		}
+	}*/
+	len = (int) strlen(strin) < len ? (int) strlen(strin) : len;
+	for (int i = 0; i < len; i++) {
+		*(p + i) = *(strin + i);
 	}
 }
 strtype operator +(strtype &obj1, strtype &obj2) {
@@ -95,7 +99,7 @@ strtype strtype:: operator =(strtype obj) {
 		exit(1);
 	}
 	for (int i = 0; i < obj.len; i++) {
-		*(p + i)=*(obj.p + i);
+		*(p + i) = *(obj.p + i);
 	}
 	return *this; 
 }
