@@ -4,7 +4,7 @@ Name: Task13.cpp
 ------------------------------------------------------------
 Description: Write a program to output the number 100 in the 
   decimal, hexadecimal, and octal number system. (Use the 
-  formatting flags of the ios class).
+  formatting flags of the "ios" class).
 ------------------------------------------------------------
 */
 #include <iostream>
