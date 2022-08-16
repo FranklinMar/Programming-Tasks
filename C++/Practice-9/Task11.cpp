@@ -2,8 +2,8 @@
 ------------------
 Name: Task11.cpp
 ------------------------------------------------------------
-Description: Add a custom input function to the strtype class 
-  of Task 09.
+Description: Add a custom input function to the "strtype" 
+  class of Task 09.
 ------------------------------------------------------------
 */
 #include <iostream>
