@@ -3,7 +3,7 @@
 Name: Task03.cpp
 ------------------------------------------------------------
 Description: Write a program, that would set flags for the 
-  cout thread, so that decimal points are always shown when 
+  "cout" thread, so that decimal points are always shown when 
   fractional values are displayed. Other than this, the 
   floating point values should be displayed in a scientific 
   notation with the symbol "E" in the upper case.
