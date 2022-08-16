@@ -2,8 +2,8 @@
 ------------------
 Name: Task09.cpp
 ------------------------------------------------------------
-Description: There is a strtype class in an incomplete program. 
-To display a line on the screen, create a custom output function:
+Description: There is a "strtype" class in an incomplete program. 
+  To display a line on the screen, create a custom output function:
 
 
 #include <iostream>
